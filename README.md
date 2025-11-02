@@ -122,7 +122,6 @@ Each model’s metrics are stored and visualized in comparison graphs and confus
 
 **Vishnuvardhan Reddy Komatireddy**
 📅 Year: 2023
-🔗 GitHub: [https://github.com/kvvr0076](https://github.com/kvvr0076)
 
 ---
 
