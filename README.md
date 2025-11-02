@@ -108,7 +108,6 @@ A computer vision and machine learning project developed in **2023** to detect t
 
 **Vishnuvardhan Reddy Komatireddy**
 📅 Year: 2023
-🔗 GitHub: [https://github.com/kvvr0076](https://github.com/kvvr0076)
 
 ---
 
